@@ -57,7 +57,6 @@ namespace Lecture_5_Lab
 
                 }
 
-;
             } while (!correct);
 
         }
